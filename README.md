@@ -24,6 +24,9 @@ The first cloud native software delivery system built from the ground up to work
 <h3 align="center"><a href="https://www.graphpod.dev/beta"> Register to our beta and get 1 month free-trial </a></h3>
 <h3 align="center">Contribute to Graphpod open source projects</h3>
 <p align="center">
+<p align="center">
 
-- <a href="https://github.com/graphpod/cli">Graphpod CLI</a> Golang based cli that can be used to interact with Graphpod api.
+<!-- - <a href="https://github.com/graphpod/cli">Graphpod CLI</a> Golang based cli that can be used to interact with Graphpod api.
+- <a href="https://github.com/graphpod/unify">Unify</a> Golang CLI
+-->
 </p>
