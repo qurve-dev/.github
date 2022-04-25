@@ -14,10 +14,10 @@ Launch new services, onboard developers and shift-left has never been that easy 
 
 The first cloud native software delivery system built from the ground up to work with Kubernetes.
 
-- Service catalog: Connect existing tools and give visibility to your developers
-- Event-driven continuous delivery: Forget about legacy CD, build complex abstractions and automation reaction to realtime events
-- Dependency aware: Connect the dots, Graphpod understand how to take smart decisions based on service dependencies.
-- Cloud-native: Stop reinventing the wheel with legacy CD systems, we provide you with a first-class citizen for microservices, SLI, SLO, and more...
+- **Service catalog**: Connect existing tools and give visibility to your developers
+- **Event-driven continuous delivery**: Forget about legacy CD, build complex abstractions and automation reaction to realtime events
+- **Dependency aware**: Connect the dots, Graphpod understand how to take smart decisions based on service dependencies.
+- **Cloud-native**: Stop reinventing the wheel with legacy CD systems, we provide you with a first-class citizen for microservices, SLI, SLO, and more...
 
 </p>
 
